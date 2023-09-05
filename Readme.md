@@ -34,13 +34,13 @@ Before you begin, ensure you have the following requirements:
    ```bash
    git clone https://github.com/prakirnakeshi/Sorting_Visualiser.git
 
-Navigate to the project directory:
+2. Navigate to the project directory:
+    ```bash
+   cd Sorting_Visualiser/Sorting-Visualizer-master
 
-Copy code
-cd Sorting_Visualiser/Sorting-Visualizer-master
-Open the index.html file in your preferred web browser.
+3. Open the index.html file in your preferred web browser.
 
-Explore and visualize different sorting algorithms with the provided options.
+4. Explore and visualize different sorting algorithms with the provided options.
 
 ### Usage
 Select a sorting algorithm from the dropdown menu.
