@@ -9,7 +9,7 @@
 
 - **Interactive Interface:** A user-friendly web interface that allows you to choose different sorting algorithms and visualize how they sort an array.
 
-- **Multiple Sorting Algorithms:** Implementations of several classic sorting algorithms, including Bubble Sort, Selection Sort, Insertion Sort, Merge Sort, Quick Sort, and more.
+- **Multiple Sorting Algorithms:** Implementations of several classic sorting algorithms, including Bubble Sort, Heap Sort, Merge Sort, and Quick Sort.
 
 - **Randomized Data Generation:** Generate random arrays of varying sizes to test and visualize how each algorithm performs.
 
