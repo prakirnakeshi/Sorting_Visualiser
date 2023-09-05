@@ -1,7 +1,7 @@
 
 # Sorting Visualiser
 
-![Sorting Visualiser]
+[Sorting Visualiser]
 
 **Sorting Visualiser** is a web-based tool designed to help you visualize and understand complex sorting algorithms through interactive and animated visualizations. This project provides a hands-on way to learn about various sorting techniques and see how they work in action.
 
